@@ -11,4 +11,5 @@ Dynamic State Selection: Selecting a state updates all charts and key metrics fo
   - Cats and dogs per household
   - Percentage of cat and dog owners
   - Total cat and dog populations
-  - This dashboard offers a comprehensive view of pet ownership trends and population distribution across various regions.
+
+This dashboard offers a comprehensive view of pet ownership trends and population distribution across various regions.
