@@ -1,5 +1,5 @@
 # Cats vs Dogs Dashboard
-![U.S. Pet Households Dashboard-2.0](CatsvsDogs2.0.png)
+![U.S. Pet Households Dashboard-2.0](CatsvsDogs.0.png)
 This Power BI dashboard provides insights into pet ownership across different locations in the United States. The dashboard dynamically updates when a specific state is selected, displaying detailed data for that location. Key features include:
 
 * Line Chart: Displays the median number of households with pets, segmented by location.
